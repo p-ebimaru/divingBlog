@@ -266,6 +266,10 @@ footer .copy {
     width: 100%;
   }
 
+  nav li {
+    padding: 10px 20px 10px 0;
+  }
+
   /* ピックアップ */
   #pickup {
     flex-direction: column;
